@@ -23,6 +23,8 @@ public class QueueCircTest
 		
 		System.out.println(q.toString());
 		
+		System.out.println("A quick update.");
+		
 		
 		/*
 		// Check if the queue is empty.
